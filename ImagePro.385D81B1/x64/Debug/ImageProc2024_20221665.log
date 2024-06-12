@@ -1,0 +1,152 @@
+﻿  ImageProc2024_20221665View.cpp
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(320,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(339,33): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(380,48): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(468,56): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(471,72): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(472,72): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(473,72): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(512,5): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(512,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(512,21): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(513,5): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(513,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(513,21): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(514,5): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(514,13): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(514,21): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(530,42): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(543,53): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(544,53): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(545,53): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(602,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(647,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(692,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1076,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1118,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1119,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1128,49): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1129,51): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1166,46): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1167,46): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1169,45): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1172,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1173,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1174,53): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1176,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1177,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1178,53): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1180,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1181,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1182,53): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1126,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1337,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1339,69): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1340,61): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1361,70): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1362,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1635,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1642,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1629,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\ImageProc2024_20221665View.cpp(1629,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/ImageProc2024_20221665View.cpp'을(를) 컴파일하는 중)
+  
+  ImageProc2024_20221665.vcxproj -> C:\Users\user\Desktop\영상처리\ImageProc2024_20221665\x64\Debug\ImageProc2024_20221665.exe
